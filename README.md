@@ -72,9 +72,41 @@ Pack dev tools
 [Hosting de base de datos](https://turso.tech/)
 
 
-[]()
+[Aprende patrones de diseño](https://refactoring.guru/es/design-patterns/examples)
+
+[Coleccion componentes](https://www.lemonsqueezy.com/wedges)
 
 
+[Cómo hace tarjeta 3d](https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber)
 
+
+[Open source browser tools for everyday use](https://omatsuri.app/)
+
+
+[React components to build charts and dashboards](https://www.tremor.so/)
+
+
+[Retos interactivos typescript](typehero․dev)
+
+[Coleccion de recursos para devs](https://freesets.vercel.app/)
+
+
+## React top tools 2024
+
+[SHADCN/UI](https://ui.shadcn.com/)
+
+[Drag'n'Drop ](https://dndkit.com/)
+
+[Autenticación](https://authjs.dev/)
+
+[Animaciones](https://www.framer.com/motion/)
+
+[Data Fetching](https://tanstack.com/query/latest)
+
+[Graficas](https://recharts.org/en-US/)
+
+[Notificaciones](https://sonner.emilkowal.ski/)
+
+[Routing](https://github.com/molefrog/wouter)
 
 []()
