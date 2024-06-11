@@ -3,6 +3,26 @@ Pack dev tools
 
 ## REACT 
 
+[slider 3d react](https://lewhunt.github.io/divz/)
+
+[MagicUI Coleccion de componentes](https://magicui.design/)
+
+[relative-time element](https://github.com/github/relative-time-element)
+
+[Componente de mampas](https://visgl.github.io/react-google-maps/)
+
+
+### icons
+
+[Handcrafted open source icons](https://lifeomic.github.io/chromicons.com/)
+
+[Buscador de iconos](https://icones.js.org/)
+
+[Iconos](https://yesicon.app/)
+
+[Tabler Icons](https://tabler.io/icons)
+
+[Coleccion de iconos](https://iconoir.com/)
 
 ---
 
@@ -18,9 +38,15 @@ Pack dev tools
 
 ## CSS
 
+[Herramienta para crear shadws en css](https://www.joshwcomeau.com/shadow-palette/)
+
+
+
 ###  Tailwind
 
 [Crear paletas de colores tailwind](https://www.tints.dev/brand/2522FC)
+
+[Animaciones tailwind](https://tailwindcss-animations.vercel.app/)
 
 ---
 
@@ -36,7 +62,7 @@ Pack dev tools
 
 [¡GUÍA Interactiva y visual de CSS Grid!](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 
-[Handcrafted open source icons](https://lifeomic.github.io/chromicons.com/)
+
 
 [Recurso para detectar errores CSS en tu web](https://www.projectwallace.com/css-code-quality)
 
@@ -56,21 +82,20 @@ Pack dev tools
 
 [Libros de programación](https://github.com/midudev/libros-programacion-gratis)
 
-[MagicUI Coleccion de componentes](https://magicui.design/)
+
 
 [Herramienta para revisar web performance](https://gtmetrix.com/)
 
-[relative-time element](https://github.com/github/relative-time-element)
 
-[Componente de mampas](https://visgl.github.io/react-google-maps/)
 
-[Herramienta para crear shadws en css](https://www.joshwcomeau.com/shadow-palette/)
+
+
+
 
 [Testias tools responsive](https://responsively.app/)
 
 [Alternativa a postman](https://yaak.app/)
 
-[Buscador de iconos](https://icones.js.org/)
 
 [SOlidity en español](https://cryptozombies.io/)
 
@@ -81,7 +106,7 @@ Pack dev tools
 [APrende logica de programación](https://exercism.org/)
 
 
-[slider 3d react](https://lewhunt.github.io/divz/)
+
 
 
 [Extensión para seo](https://www.metaexplorer.co/)
@@ -97,8 +122,6 @@ Pack dev tools
 
 [Construye svg componentes](https://www.svgviewer.dev/)
 
-
-[GUia salarial 2024](https://www.getmanfred.com/blog/guia-salarial-2024-salarios-en-tecnologia-espana-manfred)
 
 
 [Hosting de base de datos](https://turso.tech/)
@@ -124,7 +147,7 @@ Pack dev tools
 
 
 
-[Iconos](https://yesicon.app/)
+
 
 [Visulaizador de json](https://www.jsonviewer.tools/editor)
 
@@ -150,7 +173,6 @@ Pack dev tools
 
 [Curso de flutter](https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=es-419#0)
 
-[Coleccion de iconos](https://iconoir.com/)
 
 [Semantica html](https://caninclude.glitch.me/)
 
@@ -168,11 +190,11 @@ Pack dev tools
 
 [Free Open Source Tailwind CSS Components](https://www.hyperui.dev/)
 
-[Tabler Icons](https://tabler.io/icons)
+
 
 [Crea webs drag and drop](https://app.netlify.com/drop)
 
-[Animaciones tailwind](https://tailwindcss-animations.vercel.app/)
+
 
 
 ## React top tools 2024
@@ -198,18 +220,22 @@ Pack dev tools
 
 [Git](https://ohmygit.org/)
 
-[Python](https://codedex․io)
+[Python](https://www.codedex.io/)
 
-[CSS](https://flukeout․github․io)
+[CSS](https://flukeout.github.io/)
 
-[JavaScript](https://warriorjs․com)
+[JavaScript](https://warriorjs.com/)
 
-[Solidity](https://cryptozombies․io)
+[SQL](https://mystery.knightlab.com/)
 
-[SQL](https://www.mystery.knightlab․com)
-
-[C, C++, C# y Java](https://www.codingame․com)
+[C, C++, C# y Java](https://www.codingame.com/start/)
 
 
-[]()
+### Trabajos en latam
+[Prosmarketplace](https://prosmarketplace.com/)
+
+[Getonbrn](https://www.getonbrd.com/)
+
+[Guia salarial 2024](https://www.getmanfred.com/blog/guia-salarial-2024-salarios-en-tecnologia-espana-manfred)
+
 
