@@ -91,6 +91,58 @@ Pack dev tools
 [Coleccion de recursos para devs](https://freesets.vercel.app/)
 
 
+
+[Iconos](https://yesicon.app/)
+
+[Visulaizador de json](https://www.jsonviewer.tools/editor)
+
+[web analytics ](https://counterscale.dev/)
+
+[Calendarios en react](https://www.npmjs.com/package/@girs/cally-1.0/v/1.0.0-3.1.0)
+
+[AWS desde 0](https://www.youtube.com/watch?v=zQyrhjEAqLs&ab_channel=midulive)
+
+[Dark designs](https://www.dark.design/)
+
+[Guia de standares HTML CSS](https://hansfelix.github.io/code-guide/)
+
+[Alternativa a chat gtp local](https://jan.ai/download)
+
+[graficas sin js ](https://chartscss.org/)
+
+[graficas para web ](https://www.tradingview.com/lightweight-charts/)
+
+[enviar mails desde app](https://resend.com/)
+
+[Agrega animacione en la app](https://auto-animate.formkit.com/)
+
+[Curso de flutter](https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=es-419#0)
+
+[Coleccion de iconos](https://iconoir.com/)
+
+[Semantica html](https://caninclude.glitch.me/)
+
+[Alternativa open source a notion](https://appflowy.io/)
+
+[Buenas practicas para UX](https://lawsofux.com/es/)
+
+[Coleccion componentes](https://tailframes․com)
+
+[Buscador para programadores](https://codemate.ai/)
+
+[Tools desing](https://www.toools.design/)
+
+[Optimiza imágenes para que tu web cargue más rápido](https://squoosh.app/)
+
+[Free Open Source Tailwind CSS Components](https://www.hyperui.dev/)
+
+[Tabler Icons](https://tabler.io/icons)
+
+[Crea webs drag and drop](https://app.netlify.com/drop)
+
+[Animaciones tailwind](https://tailwindcss-animations.vercel.app/)
+
+
 ## React top tools 2024
 
 [SHADCN/UI](https://ui.shadcn.com/)
@@ -108,5 +160,3 @@ Pack dev tools
 [Notificaciones](https://sonner.emilkowal.ski/)
 
 [Routing](https://github.com/molefrog/wouter)
-
-[]()
