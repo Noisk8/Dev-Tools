@@ -18,7 +18,9 @@ Pack dev tools
 
 ## CSS
 
+###  Tailwind
 
+[Crear paletas de colores tailwind](https://www.tints.dev/brand/2522FC)
 
 ---
 
@@ -194,18 +196,20 @@ Pack dev tools
 
 ## Colección de JUEGOS para APRENDER PROGRAMACIÓN
 
-[Git](ohmygit․org)
+[Git](https://www.ohmygit․org)
 
-[Python](codedex․io)
-[CSS](flukeout․github․io)
+[Python](https://www.codedex․io)
 
-[JavaScript](warriorjs․com)
+[CSS](https://www.flukeout․github․io)
 
-[Solidity](cryptozombies․io)
+[JavaScript](https://www.warriorjs․com)
 
-[SQL](mystery.knightlab․com)
+[Solidity](https://www.cryptozombies․io)
 
-[C, C++, C# y Java](codingame․com)
-[]()
+[SQL](https://www.mystery.knightlab․com)
+
+[C, C++, C# y Java](https://www.codingame․com)
+
+
 []()
 
