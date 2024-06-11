@@ -22,6 +22,16 @@ Pack dev tools
 
 ---
 
+## JSON 
+
+[Create AI-generated API endpoints.](https://www.jsondataai.com/)
+
+---
+
+
+[Creador de diagramas con ai](https://www.eraser.io/diagramgpt)
+
+
 [¡GUÍA Interactiva y visual de CSS Grid!](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 
 [Handcrafted open source icons](https://lifeomic.github.io/chromicons.com/)
@@ -180,3 +190,22 @@ Pack dev tools
 [Notificaciones](https://sonner.emilkowal.ski/)
 
 [Routing](https://github.com/molefrog/wouter)
+
+
+## Colección de JUEGOS para APRENDER PROGRAMACIÓN
+
+[Git](ohmygit․org)
+
+[Python](codedex․io)
+[CSS](flukeout․github․io)
+
+[JavaScript](warriorjs․com)
+
+[Solidity](cryptozombies․io)
+
+[SQL](mystery.knightlab․com)
+
+[C, C++, C# y Java](codingame․com)
+[]()
+[]()
+
