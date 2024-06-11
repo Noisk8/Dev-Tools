@@ -196,15 +196,15 @@ Pack dev tools
 
 ## Colección de JUEGOS para APRENDER PROGRAMACIÓN
 
-[Git](https://www.ohmygit․org)
+[Git](https://ohmygit.org/)
 
-[Python](https://www.codedex․io)
+[Python](https://codedex․io)
 
-[CSS](https://www.flukeout․github․io)
+[CSS](https://flukeout․github․io)
 
-[JavaScript](https://www.warriorjs․com)
+[JavaScript](https://warriorjs․com)
 
-[Solidity](https://www.cryptozombies․io)
+[Solidity](https://cryptozombies․io)
 
 [SQL](https://www.mystery.knightlab․com)
 
